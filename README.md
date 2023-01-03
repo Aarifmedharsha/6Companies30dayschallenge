@@ -13,7 +13,7 @@ Challenge Company 1 : Microsoft
 7.	Scheduling a Course.
 8.	Profitable Path in a Tree.
 9.	Number of Pairs satisfying Inequality.
-10.	Shortest Unsorted continuous Subarray
+10.	Shortest Unsorted continuous Subarray(https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)
 11.	Number of ways to arrive at a Destination.
 12.	Longest Happy Prefix(https://leetcode.com/problems/longest-happy-prefix/description/)
 13.	Seat Arrangement in a SpiceJet Problem - Online OA February ‘22(https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
