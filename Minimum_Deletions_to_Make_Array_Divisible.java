@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Minimum_Deletions_to_Make_Array_Divisible {
         public static int gcd(int a,int b){
             if(b==0) return a;
@@ -13,6 +14,7 @@ public class Minimum_Deletions_to_Make_Array_Divisible {
         public static int minDelete(int arr1[],int arr2[]){
             int count=0;
             int g =gcdofarray(arr2);
+            Arrays.sort(arr1);
             for(int i=0;i<arr1.length;i++){
                 if(g%arr1[i]==0) return count;
                 else count++;
