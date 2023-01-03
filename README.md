@@ -7,7 +7,7 @@ All these challenges are solved in Local Java Editor please find the functions w
 Challenge Company 1 : Microsoft 
 1.	You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 2.	Combination Sum with a twist.
-3.	Bulls and Cows.
+3.	Bulls and Cows.(https://leetcode.com/problems/bulls-and-cows/)
 4.	You are given an integer array nums of length n. Return maximum length of Rotation Function.(https://leetcode.com/problems/rotate-function/description/)
 5.	Largest Divisible Subset.
 6.	How to find a perfect Rectangle.
