@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class reversepolish {
+public class Evaluate_Reverse_Polish_Notation {
     public static int op(String [] ans){
         Stack<Integer> s =new Stack<>();
         for(int i=0;i<ans.length;i++){
