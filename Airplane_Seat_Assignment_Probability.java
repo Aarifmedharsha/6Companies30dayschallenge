@@ -1,5 +1,5 @@
 import java.util.Scanner;   
-public class airplaneseat {
+public class Airplane_Seat_Assignment_Probability{
     public static float seat(int n){
         if(n==0||n==1) return 1;
         else return 1/2;
