@@ -10,7 +10,7 @@ public class Minimum_Deletions_to_Make_Array_Divisible {
             }
             return temp;
         }
-        public static int minOperations(int arr1[],int arr2[]){
+        public static int minDelete(int arr1[],int arr2[]){
             int count=0;
             int g =gcdofarray(arr2);
             for(int i=0;i<arr1.length;i++){
@@ -22,6 +22,6 @@ public class Minimum_Deletions_to_Make_Array_Divisible {
         public static void main(String[] args) {
             int arr1[] ={2,2,3,3,4};
             int arr2[] ={9,6,15,18,21,3};
-            System.out.println(minOperations(arr1, arr2));
+            System.out.println(minDelete(arr1, arr2));
         }
 }
