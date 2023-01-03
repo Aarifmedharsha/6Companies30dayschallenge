@@ -19,4 +19,4 @@ Challenge Company 1 : Microsoft
 12.	Longest Happy Prefix(https://leetcode.com/problems/longest-happy-prefix/description/)
 13.	Seat Arrangement in a SpiceJet Problem - Online OA February ‘22(https://leetcode.com/problems/airplane-seat-assignment-probability/description/)
 14.	Deletions to make an array divisible.(https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/)
-15.	Substrings containing all three Characters
+15.	Substrings containing all three Characters(https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
