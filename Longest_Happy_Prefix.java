@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class longesthappypreefix {
+public class Longest_Happy_Prefix{
     public static String ans(String s){
         char []arr =s.toCharArray();
         int len=0;
@@ -21,13 +21,11 @@ public class longesthappypreefix {
                 }
             }
         }
-        //return lp;
         return s.substring(0,lp[lp.length-1]);
     }
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         String s =sc.nextLine();
         System.out.println(ans(s));
-        // System.out.println(Arrays.toString(ans(s)));
     }
 }
