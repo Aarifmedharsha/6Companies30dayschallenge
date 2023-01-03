@@ -1,9 +1,9 @@
 import java.util.Stack;
 public class Evaluate_Reverse_Polish_Notation {
-    public static int op(String [] ans){
+    public static int evalRPN(String [] tokens){
         Stack<Integer> s =new Stack<>();
-        for(int i=0;i<ans.length;i++){
-            switch (ans[i]) {
+        for(int i=0;i<tokens.length;i++){
+            switch (tokens[i]) {
                 case "+":
                 s.push(s.pop() + s.pop());
                 break;
@@ -21,7 +21,7 @@ public class Evaluate_Reverse_Polish_Notation {
                 s.push(n4/n3);
                 break;        
                 default:
-                s.push(Integer.parseInt(ans[i]));
+                s.push(Integer.parseInt(tokens[i]));
             }
         }
         return s.pop();
@@ -29,8 +29,7 @@ public class Evaluate_Reverse_Polish_Notation {
     }
     public static void main(String[] args) {
         String [] ans ={"2","3","*"};
-        System.out.println(op(ans));
-
+        System.out.println(evalRPN(ans));
     }
     
 }
