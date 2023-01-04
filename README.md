@@ -5,7 +5,7 @@ Challenge given by Career Development Cell @KPRIET and Arsh Goyal Problems Avail
 All these challenges are solved in Local Java Editor please find the functions with the code.
 
 Challenge Company 1 : Microsoft 
-1.You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/)[LeetCode:151]
+1.  You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/)[LeetCode:151]
 2.	Combination Sum with a twist.
 3.	Bulls and Cows.(https://leetcode.com/problems/bulls-and-cows/)[LeetCode:299]
 4.	You are given an integer array nums of length n. Return maximum length of Rotation Function.(https://leetcode.com/problems/rotate-function/description/)[LeetCode:396]
