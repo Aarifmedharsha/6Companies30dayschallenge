@@ -9,7 +9,7 @@ Challenge Company 1 : Microsoft
 2.	Combination Sum with a twist.
 3.	Bulls and Cows.(https://leetcode.com/problems/bulls-and-cows/) [LeetCode:299]
 4.	You are given an integer array nums of length n. Return maximum length of Rotation Function.(https://leetcode.com/problems/rotate-function/description/)  [LeetCode:396]
-5.	Largest Divisible Subset.
+5.	Largest Divisible Subset.(https://leetcode.com/problems/largest-divisible-subset/description/) [LeetCode:368]
 6.	How to find a perfect Rectangle.
 7.	Scheduling a Course.
 8.	Profitable Path in a Tree.
