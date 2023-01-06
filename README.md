@@ -10,7 +10,7 @@ Challenge Company 1 : Microsoft
 3.	Bulls and Cows.(https://leetcode.com/problems/bulls-and-cows/) [LeetCode:299]
 4.	You are given an integer array nums of length n. Return maximum length of Rotation Function.(https://leetcode.com/problems/rotate-function/description/)  [LeetCode:396]
 5.	Largest Divisible Subset.(https://leetcode.com/problems/largest-divisible-subset/description/) [LeetCode:368]
-6.	How to find a perfect Rectangle.
+6.	How to find a perfect Rectangle.(https://leetcode.com/problems/perfect-rectangle/) [LeetCode:391]
 7.	Scheduling a Course.
 8.	Profitable Path in a Tree.
 9.	Number of Pairs satisfying Inequality.
