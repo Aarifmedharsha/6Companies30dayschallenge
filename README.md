@@ -11,9 +11,9 @@ Challenge Company 1 : Microsoft
 4.	You are given an integer array nums of length n. Return maximum length of Rotation Function.(https://leetcode.com/problems/rotate-function/description/)  [LeetCode:396]
 5.	Largest Divisible Subset.(https://leetcode.com/problems/largest-divisible-subset/description/) [LeetCode:368]
 6.	How to find a perfect Rectangle.(https://leetcode.com/problems/perfect-rectangle/) [LeetCode:391]
-7.	Scheduling a Course.
-8.	Profitable Path in a Tree.
-9.	Number of Pairs satisfying Inequality.
+7.	Scheduling a Course.(https://leetcode.com/problems/course-schedule/) [LeetCode:207]
+8.	Profitable Path in a Tree.(https://leetcode.com/problems/most-profitable-path-in-a-tree/) [LeetCode:2467]
+9.	Number of Pairs satisfying Inequality.(https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) [LeetCode:2426]
 10.	Shortest Unsorted continuous Subarray(https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) [LeetCode:581]
 11.	Number of ways to arrive at a Destination.(https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) [LeetCode:1976]
 12.	Longest Happy Prefix(https://leetcode.com/problems/longest-happy-prefix/description/) [LeetCode:1392]
