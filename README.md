@@ -15,7 +15,7 @@ Challenge Company 1 : Microsoft
 8.	Profitable Path in a Tree.
 9.	Number of Pairs satisfying Inequality.
 10.	Shortest Unsorted continuous Subarray(https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) [LeetCode:581]
-11.	Number of ways to arrive at a Destination.
+11.	Number of ways to arrive at a Destination.(https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) [LeetCode:1976]
 12.	Longest Happy Prefix(https://leetcode.com/problems/longest-happy-prefix/description/) [LeetCode:1392]
 13.	Seat Arrangement in a SpiceJet Problem - Online OA February ‘22(https://leetcode.com/problems/airplane-seat-assignment-probability/description/) [LeetCode:1227]
 14.	Deletions to make an array divisible.(https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) [LeetCode:2344]
