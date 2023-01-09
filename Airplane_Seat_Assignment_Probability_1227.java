@@ -1,5 +1,5 @@
 import java.util.Scanner;   
-public class Airplane_Seat_Assignment_Probability{
+public class Airplane_Seat_Assignment_Probability_1227{
     public static double nthPersonGetsNthSeat(int n){
         if(n<=1) return 1;
         else return 0.50000;
