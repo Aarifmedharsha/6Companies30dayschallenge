@@ -1,5 +1,5 @@
 import java.util.*;
-public class Combination_Sum_III {
+public class Combination_Sum_III_216 {
     public static List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> collectionofsubsets=new ArrayList<>();
         List<Integer> currsubset=new ArrayList<>();
