@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Minimum_Deletions_to_Make_Array_Divisible {
+public class Minimum_Deletions_to_Make_Array_Divisible_2344 {
         public static int gcd(int a,int b){
             if(b==0) return a;
             return gcd(b,a%b);
