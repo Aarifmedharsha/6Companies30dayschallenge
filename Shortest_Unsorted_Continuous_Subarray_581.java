@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Shortest_Unsorted_Continuous_Subarray {
+public class Shortest_Unsorted_Continuous_Subarray_581{
     public static int findUnsortedSubarray(int[] nums) {
         int temp [] = nums.clone();
         Arrays.sort(temp);
