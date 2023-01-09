@@ -1,4 +1,4 @@
-public class Rotate_Function {
+public class Rotate_Function_396 {
     public static int maxRotateFunction(int[] nums) {
         int temp=0;
         int total=0;
