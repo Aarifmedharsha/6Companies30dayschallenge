@@ -1,5 +1,5 @@
 import java.util.*;
-public class Course_Schedule{
+public class Course_Schedule_207{
     public static boolean canFinish(int numCourses, int[][] prerequisites) {        
         List<Integer>[] adj=new List[numCourses];
         int[] visited=new int[numCourses];
