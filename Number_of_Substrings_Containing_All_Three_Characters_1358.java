@@ -1,4 +1,4 @@
-public class Number_of_Substrings_Containing_All_Three_Characters {
+public class Number_of_Substrings_Containing_All_Three_Characters_1358 {
     public static int numberOfSubstings(String s){
         int freq[] =new int[3];
         int l=0;
