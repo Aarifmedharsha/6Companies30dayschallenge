@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Longest_Happy_Prefix{
+public class Longest_Happy_Prefix_1392{
     public static String longestPrefix(String s){
         char []arr =s.toCharArray();
         int len=0;
