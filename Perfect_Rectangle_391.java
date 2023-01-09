@@ -1,5 +1,5 @@
 import java.util.HashSet;
-public class Perfect_Rectangle {
+public class Perfect_Rectangle_391 {
     public static boolean isRectangleCover(int rect[][]){
         int x1=Integer.MAX_VALUE;
         int y1=Integer.MAX_VALUE;
