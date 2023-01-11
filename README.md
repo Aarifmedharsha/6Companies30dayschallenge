@@ -25,7 +25,7 @@ Challenge Company 2 : Goldman Sachs
 2.	Valid Square (https://leetcode.com/problems/valid-square/description/) [LeetCode:593]
 3.	Factorial with Trailing Zeroes (https://leetcode.com/problems/factorial-trailing-zeroes/description/) [LeetCode:172]
 4.	Number of Boomerangs (https://leetcode.com/problems/number-of-boomerangs/description/) [LeetCode:447]
-5.	Split Array into Sequences () [LeetCode:]
+5.	Split Array into Sequences (https://leetcode.com/problems/split-array-into-consecutive-subsequences/) [LeetCode:659]
 6.	Minimum Consecutive Cards to pick up (https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) [LeetCode:2260]
 7.	Count Good Triplets in Array  () [LeetCode:]
 8.	Maximum Points in Archery Competition () [LeetCode:]
