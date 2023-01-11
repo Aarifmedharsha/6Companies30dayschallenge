@@ -9,7 +9,7 @@ List of Companies :
 ***********************************************************************************************************************************************************************
 QUESTIONS WITH LINK 
 
-Challenge Company 1 : Microsoft 
+* Challenge Company 1 : Microsoft 
 1.  You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/) [LeetCode:151]
 2.	Combination Sum with a twist.(https://leetcode.com/problems/combination-sum-iii/) [LeetCode:216]
 3.	Bulls and Cows.(https://leetcode.com/problems/bulls-and-cows/) [LeetCode:299]
@@ -26,7 +26,7 @@ Challenge Company 1 : Microsoft
 14.	Deletions to make an array divisible.(https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) [LeetCode:2344]
 15.	Substrings containing all three Characters(https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) [LeetCode:1358]
 ***********************************************************************************************************************************************************************
-Challenge Company 2 : Goldman Sachs
+* Challenge Company 2 : Goldman Sachs
 1.	Max Points on a Line (https://leetcode.com/problems/max-points-on-a-line/) [LeetCode:149]
 2.	Valid Square (https://leetcode.com/problems/valid-square/description/) [LeetCode:593]
 3.	Factorial with Trailing Zeroes (https://leetcode.com/problems/factorial-trailing-zeroes/description/) [LeetCode:172]
