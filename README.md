@@ -2,7 +2,9 @@
 
 Challenge given by Career Development Cell @KPRIET and Arsh Goyal Problems Available at LeetCode
 
-[Microsoft]()
+Companies : 
+[Microsoft](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Microsoft)
+[Goldman Sachs](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Goldman%20Sachs)
 ***********************************************************************************************************************************************************************
 Challenge Company 1 : Microsoft 
 1.  You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/) [LeetCode:151]
