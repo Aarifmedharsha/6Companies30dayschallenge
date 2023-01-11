@@ -2,7 +2,6 @@
 
 Challenge given by Career Development Cell @KPRIET and Arsh Goyal Problems Available at LeetCode
 
-All these challenges are solved in Local Java Editor please find the functions with the code.
 ***********************************************************************************************************************************************************************
 Challenge Company 1 : Microsoft 
 1.  You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/) [LeetCode:151]
