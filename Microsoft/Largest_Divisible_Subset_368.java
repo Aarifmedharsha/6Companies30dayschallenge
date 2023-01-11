@@ -1,10 +1,9 @@
-import java.util.*;
-public class Largest_Divisible_Subset_368 {
-    public static List<Integer> largestDivisibleSubset(int[] nums) {
+class Solution {
+    public List<Integer> largestDivisibleSubset(int[] nums) {
         int arr[] = new int[nums.length];
         return lds(nums,arr,ldssize(nums,arr)); 
     }
-    public static int ldssize(int [] nums , int[] arr){
+    public int ldssize(int [] nums , int[] arr){
         Arrays.sort(nums);
         Arrays.fill(arr,1);
         int lds1=1;
@@ -18,7 +17,7 @@ public class Largest_Divisible_Subset_368 {
         }
         return lds1;
     }
-    public static List<Integer> lds(int[] nums,int[] arr,int lds1){
+    public List<Integer> lds(int[] nums,int[] arr,int lds1){
         int prev=-1;
         var list1 = new LinkedList<Integer>();
         for(int i= arr.length-1;i>=0;i--){
@@ -29,9 +28,5 @@ public class Largest_Divisible_Subset_368 {
             }
         }
         return list1;
-    }
-    public static void main(String[] args) {
-        int nums[] ={1,2,4,8};
-        System.out.println(largestDivisibleSubset(nums));
     }
 }
