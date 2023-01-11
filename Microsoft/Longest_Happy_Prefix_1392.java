@@ -1,31 +1,26 @@
-import java.util.Scanner;
-public class Longest_Happy_Prefix_1392{
-    public static String longestPrefix(String s){
-        char []arr =s.toCharArray();
+class Solution {
+    public String longestPrefix(String s) {
+        char arr[] =s.toCharArray();
         int len=0;
         int i=1;
-        int lp[] =new int[arr.length];
-        while(i<arr.length){
+        int lps[] =new int[arr.length];
+        lps[0]=0;
+        while(i<s.length()){
             if(arr[i]==arr[len]){
                 len++;
-                lp[i]=len;
+                lps[i]=len;
                 i++;
             }
             else{
                 if(len!=0){
-                    len=lp[len-1];
+                    len=lps[len-1];
                 }
                 else{
-                    lp[i]=0;
+                    lps[i]=0;
                     i++;
                 }
             }
         }
-        return s.substring(0,lp[lp.length-1]);
-    }
-    public static void main(String[] args) {
-        Scanner sc =new Scanner(System.in);
-        String s =sc.nextLine();
-        System.out.println(longestPrefix(s));
+        return s.substring(0,lps[lps.length-1]);
     }
 }
