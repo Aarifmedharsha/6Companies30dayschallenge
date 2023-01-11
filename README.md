@@ -7,8 +7,8 @@ List of Companies :
 
 * [Goldman Sachs](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Goldman%20Sachs)
 ***********************************************************************************************************************************************************************
-QUESTIONS WITH LINK
-***********************************************************************************************************************************************************************
+QUESTIONS WITH LINK 
+
 Challenge Company 1 : Microsoft 
 1.  You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.(https://leetcode.com/problems/evaluate-reverse-polish-notation/) [LeetCode:151]
 2.	Combination Sum with a twist.(https://leetcode.com/problems/combination-sum-iii/) [LeetCode:216]
