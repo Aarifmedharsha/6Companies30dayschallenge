@@ -1,5 +1,5 @@
-public class Bulls_and_Cows_299 {
-    public static String getHint(String secret, String guess) {
+class Solution {
+    public String getHint(String secret, String guess) {
         int freq[] =new int[10];
         int bull=0;
         int cow=0;
@@ -15,12 +15,7 @@ public class Bulls_and_Cows_299 {
         }
         String t="";
         cow=cow-bull;
-        t="A"+bull+"B"+cow;
+        t=bull+"A"+cow+"B";
         return t;
-    }
-    public static void main(String[] args) {
-        String a ="1807";
-        String b="7810";
-        System.out.println(getHint(a, b));
     }
 }
