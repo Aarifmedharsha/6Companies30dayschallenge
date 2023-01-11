@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Shortest_Unsorted_Continuous_Subarray_581{
+class Solution {
     public static int findUnsortedSubarray(int[] nums) {
         int temp [] = nums.clone();
         Arrays.sort(temp);
@@ -14,10 +12,9 @@ public class Shortest_Unsorted_Continuous_Subarray_581{
             if(nums[i]==temp[i]) end--;
             else break;
         }
-        return end-start+1;
-    }
-    public static void main(String[] args) {
-        int nums [] ={2,6,4,8,10,9,15};
-        System.out.println(findUnsortedSubarray(nums));
+        if(end-start+1>0) {
+            return end-start+1;
+        }
+        else return 0;
     }
 }
