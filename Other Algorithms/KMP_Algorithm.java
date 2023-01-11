@@ -1,6 +1,6 @@
 /*Pattern Identification in String*/
 import java.util.Scanner;
-public class KMP_algorithm{
+public class KMP_Algorithm{
     static void search(char []str,char pat[]){
         int m=pat.length;
         int n=str.length;
