@@ -1,20 +1,18 @@
-import java.util.*;
-public class Course_Schedule_207{
-    public static boolean canFinish(int numCourses, int[][] prerequisites) {        
-        List<Integer>[] adj=new List[numCourses];
-        int[] visited=new int[numCourses];
-        int count=0;
-        for (int i=0;i<numCourses;i++){
-            adj[i]=new ArrayList<>();
+class Solution {
+     public boolean canFinish(int numCourses, int[][] prerequisites) {        
+        List<Integer>[] adj = new List[numCourses];
+        int[] visited = new int[numCourses];
+        int count = 0;
+        for (int i = 0; i < numCourses; i++){
+            adj[i] = new ArrayList<>();
         }
-        for (int[] r:prerequisites) {
+        for (int[] r : prerequisites) {
             adj[r[1]].add(r[0]);
             visited[r[0]]++;
         }
-        //System.out.println(Arrays.toString(visited));
-        Queue<Integer> q=new LinkedList<>();
-        for (int i=0;i<numCourses;i++){
-            if (visited[i]==0){
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++){
+            if (visited[i] == 0){
                 q.add(i);
             }
         }
@@ -27,11 +25,6 @@ public class Course_Schedule_207{
                 }
             }
         }
-        return count==numCourses;
-    }
-    public static void main(String[] args) {
-        int n=2;
-        int p[][]={{1,0},{0,1}};
-        System.out.println(canFinish(n,p));
+        return count == numCourses;
     }
 }
