@@ -1,6 +1,5 @@
-import java.util.Stack;
-public class Evaluate_Reverse_Polish_Notation_151 {
-    public static int evalRPN(String [] tokens){
+class Solution {
+    public int evalRPN(String[] tokens) {
         Stack<Integer> s =new Stack<>();
         for(int i=0;i<tokens.length;i++){
             switch (tokens[i]) {
@@ -25,11 +24,5 @@ public class Evaluate_Reverse_Polish_Notation_151 {
             }
         }
         return s.pop();
-
     }
-    public static void main(String[] args) {
-        String [] ans ={"2","3","*"};
-        System.out.println(evalRPN(ans));
-    }
-    
 }
