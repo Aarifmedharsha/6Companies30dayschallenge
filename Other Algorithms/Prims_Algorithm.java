@@ -1,5 +1,5 @@
 /* Minimum Spanning Time */
-public class prims {
+public class Prims_Algorithm {
     private static final int V=5;
     int mini(boolean visited[],int key[]){
         int min_i=-1;
