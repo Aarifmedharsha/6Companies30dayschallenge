@@ -1,6 +1,5 @@
-import java.util.HashSet;
-public class Perfect_Rectangle_391 {
-    public static boolean isRectangleCover(int rect[][]){
+class Solution {
+    public boolean isRectangleCover(int[][] rect) {
         int x1=Integer.MAX_VALUE;
         int y1=Integer.MAX_VALUE;
         int x2=Integer.MIN_VALUE;
@@ -25,8 +24,5 @@ public class Perfect_Rectangle_391 {
         if(!s.contains(x1+" "+y1)||!s.contains(x2+" "+y2)||!s.contains(x1+" "+y2)||!s.contains(x2+" "+y1)||s.size()!=4) return false;
         return area1==(x2-x1)*(y2-y1);
     }
-    public static void main(String[] args) {
-        int rect[][] ={{1,1,3,3},{3,1,4,2},{3,2,4,4},{1,3,2,4},{2,3,3,4}};
-        System.out.println(isRectangleCover(rect));
-    }
+    
 }
