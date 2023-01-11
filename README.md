@@ -25,7 +25,7 @@ QUESTIONS WITH LINK
 13.	Seat Arrangement in a SpiceJet Problem - Online OA February ‘22(https://leetcode.com/problems/airplane-seat-assignment-probability/description/) [LeetCode:1227]
 14.	Deletions to make an array divisible.(https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) [LeetCode:2344]
 15.	Substrings containing all three Characters(https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) [LeetCode:1358]
-***********************************************************************************************************************************************************************
+
 * Challenge Company 2 : Goldman Sachs
 1.	Max Points on a Line (https://leetcode.com/problems/max-points-on-a-line/) [LeetCode:149]
 2.	Valid Square (https://leetcode.com/problems/valid-square/description/) [LeetCode:593]
