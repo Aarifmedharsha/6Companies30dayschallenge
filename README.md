@@ -10,8 +10,7 @@ List of Companies :
 
 * [Adobe](https://github.com/Aarifmedharsha/6Companies30dayschallenge/tree/main/Adobe)
 ***********************************************************************************************************************************************************************
-# Questions list with link and problem no
- Challenge Company 1 : Microsoft
+#Challenge Company 1 : Microsoft
 
 | Questions                                   | Link                                                                                | LeetCode |
 | --------------------------------------------| ------------------------------------------------------------------------------------| ---------|
@@ -31,7 +30,7 @@ List of Companies :
 |14.Deletions to make an array divisible.     | https://leetcode.com/problems/minimum-deletions-to-make-array-divisible             | 2344
 |15.Substrings containing all three Characters| https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ | 1358
 
- Challenge Company 2 : Goldman Sachs
+# Challenge Company 2 : Goldman Sachs
 
 | Questions                                   | Link                                                                                | LeetCode |
 | --------------------------------------------| ------------------------------------------------------------------------------------| ---------|
@@ -51,7 +50,7 @@ List of Companies :
 |14.Nice Pairs in Array                       | https://leetcode.com/problems/count-nice-pairs-in-an-array/                         | 1814
 |15.Good People based on Statements           | https://leetcode.com/problems/maximum-good-people-based-on-statements/              | 2151
 
- Challenge Company 3 : Adobe
+# Challenge Company 3 : Adobe
 
 | Questions                                         | Link                                                                                        | LeetCode |
 | --------------------------------------------------| --------------------------------------------------------------------------------------------| ---------|
