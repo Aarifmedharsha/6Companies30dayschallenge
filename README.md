@@ -1,6 +1,7 @@
 # 6_Companies_30_days_challenge
 
-Challenge given by Career Development Cell @KPRIET and Arsh Goyal Problems Available at LeetCode
+Challenge given by Career Development Cell @KPRIET and Arsh Goyal all the Problems Available at LeetCode
+ReviseWithArsh 
 ***********************************************************************************************************************************************************************
 List of Companies : 
 * [Microsoft](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Microsoft)
