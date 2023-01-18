@@ -1,7 +1,7 @@
-# 6_Companies_30_days_challenge
+# 6Companies30dayschallenge # ReviseWithArsh 
 
 Challenge given by Career Development Cell @KPRIET and Arsh Goyal all the Problems Available at LeetCode
-ReviseWithArsh 
+
 ***********************************************************************************************************************************************************************
 List of Companies : 
 * [Microsoft](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Microsoft)
