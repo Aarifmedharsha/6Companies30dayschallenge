@@ -8,9 +8,9 @@ List of Companies :
 
 * [Goldman Sachs](https://github.com/Aarifmedharsha/6_Companies_30_days_challenge/tree/main/Goldman%20Sachs)
 
-* [Adobe]()
+* [Adobe](https://github.com/Aarifmedharsha/6Companies30dayschallenge/tree/main/Adobe)
 ***********************************************************************************************************************************************************************
-QUESTIONS WITH LINK 
+# Questions list with link and problem no
 # Challenge Company 1 : Microsoft
 
 | Questions                                   | Link                                                                                | LeetCode |
