@@ -14,7 +14,7 @@ List of Companies :
 
 * [Google](https://github.com/Aarifmedharsha/6Companies30dayschallenge/tree/main/Google)
 
-* [](https://github.com/Aarifmedharsha/6Companies30dayschallenge/tree/main/)
+* [Amazon](https://github.com/Aarifmedharsha/6Companies30dayschallenge/tree/main/Amazon)
 ***********************************************************************************************************************************************************************
 #Challenge Company 1 : Microsoft
 
